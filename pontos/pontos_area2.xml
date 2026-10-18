@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Pontos>
+  <Ponto nome="inicio" lat="-2804893.0680083334" lon="-5948096.4260125" tipo="inicio" />
+  <Ponto nome="P1" lat="-2804892.1419666666" lon="-5948009.378095834" tipo="normal" />
+  <Ponto nome="P2" lat="-2804718.0461333334" lon="-5947925.108304167" tipo="normal" />
+  <Ponto nome="P3" lat="-2804804.1680083335" lon="-5947922.330179167" tipo="normal" />
+  <Ponto nome="P4" lat="-2804890.2898833333" lon="-5947922.330179167" tipo="normal" />
+  <Ponto nome="P5" lat="-2804892.1419666666" lon="-5947837.134345834" tipo="normal" />
+  <Ponto nome="P6" lat="-2804805.09405" lon="-5947838.060387501" tipo="normal" />
+  <Ponto nome="P7" lat="-2804718.9721750002" lon="-5947838.060387501" tipo="normal" />
+  <Ponto nome="P8" lat="-2804633.776341667" lon="-5947751.9385125" tipo="normal" />
+  <Ponto nome="P9" lat="-2804720.8242583335" lon="-5947751.9385125" tipo="normal" />
+  <Ponto nome="P10" lat="-2804808.7982166666" lon="-5947750.086429168" tipo="normal" />
+  <Ponto nome="P11" lat="-2804890.2898833333" lon="-5947750.086429168" tipo="normal" />
+  <Ponto nome="P12" lat="-2804806.020091667" lon="-5947663.038512501" tipo="normal" />
+  <Ponto nome="P13" lat="-2804718.0461333334" lon="-5947659.334345834" tipo="normal" />
+  <Ponto nome="P14" lat="-2804631.9242583336" lon="-5947663.038512501" tipo="normal" />
+  <Ponto nome="P15" lat="-2804718.0461333334" lon="-5947578.768720834" tipo="normal" />
+  <Ponto nome="P16" lat="-2804631.9242583336" lon="-5947489.868720834" tipo="normal" />
+  <Ponto nome="P17" lat="-2804546.7284250003" lon="-5947488.942679168" tipo="normal" />
+  <Ponto nome="P18" lat="-2804456.9023833335" lon="-5947489.868720834" tipo="normal" />
+  <Ponto nome="P19" lat="-2804368.928425" lon="-5947488.942679168" tipo="normal" />
+  <Ponto nome="P20" lat="-2804371.7065500002" lon="-5947402.820804168" tipo="normal" />
+  <Ponto nome="P21" lat="-2804460.60655" lon="-5947404.6728875" tipo="normal" />
+  <Ponto nome="P22" lat="-2804544.8763416666" lon="-5947402.820804168" tipo="normal" />
+  <Ponto nome="P23" lat="-2804459.6805083333" lon="-5947317.624970834" tipo="normal" />
+  <Ponto nome="P24" lat="-2804373.5586333335" lon="-5947315.772887501" tipo="normal" />
+  <Ponto nome="P25" lat="-2804284.6586333336" lon="-5947315.772887501" tipo="normal" />
+  <Ponto nome="P26" lat="-2804198.5367583334" lon="-5947315.772887501" tipo="normal" />
+  <Ponto nome="P27" lat="-2804284.6586333336" lon="-5947401.8947625" tipo="normal" />
+</Pontos>
