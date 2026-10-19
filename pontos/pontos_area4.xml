@@ -11,8 +11,8 @@
     <Ponto nome="P10" lat="-25.10904907" lon="-53.83197895"/>
     <Ponto nome="P11" lat="-25.10938406" lon="-53.83065723"/>
     <Ponto nome="P12" lat="-25.10961562" lon="-53.83003589"/>
-    <Ponto nome="inicio" lat="-25.10992088" lon="-53.82947208"/>
-    <Ponto nome="inicio" lat="-25.11031768" lon="-53.82974559"/>
+    <Ponto nome="P13" lat="-25.10992088" lon="-53.82947208"/>
+    <Ponto nome="P14" lat="-25.11031768" lon="-53.82974559"/>
     <Ponto nome="P15" lat="-25.10978531" lon="-53.83100239"/>
     <Ponto nome="P16" lat="-25.10959426" lon="-53.83165783"/>
     <Ponto nome="P17" lat="-25.10900902" lon="-53.83272282"/>
@@ -24,8 +24,8 @@
     <Ponto nome="P23" lat="-25.10964004" lon="-53.83246273"/>
     <Ponto nome="P24" lat="-25.11005234" lon="-53.83122746"/>
     <Ponto nome="P25" lat="-25.11025855" lon="-53.83059627"/>
-    <Ponto nome="inicio" lat="-25.11058661" lon="-53.83000118"/>
-    <Ponto nome="inicio" lat="-25.11080962" lon="-53.83025333"/>
+    <Ponto nome="P15" lat="-25.11058661" lon="-53.83000118"/>
+    <Ponto nome="P16" lat="-25.11080962" lon="-53.83025333"/>
     <Ponto nome="P28" lat="-25.11051933" lon="-53.83084911"/>
     <Ponto nome="P29" lat="-25.11016297" lon="-53.83208195"/>
     <Ponto nome="P30" lat="-25.10948395" lon="-53.83313481"/>
